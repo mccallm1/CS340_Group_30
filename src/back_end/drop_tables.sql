@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS species;
+DROP TABLE IF EXISTS animal;
+DROP TABLE IF EXISTS researcher;
+DROP TABLE IF EXISTS observation;
+DROP TABLE IF EXISTS interaction;
